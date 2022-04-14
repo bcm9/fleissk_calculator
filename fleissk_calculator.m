@@ -22,4 +22,3 @@ P_hat_e=sum(p_j.^2);
 % fleiss k = P_hat - P_hat_e / 1-P_hat_e
 fleissk=(P_hat-P_hat_e)/(1-P_hat_e);
 end
-

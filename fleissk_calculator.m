@@ -1,6 +1,6 @@
 function [fleissk] = fleissk_calculator(n,N,k,k_table)
 % fleissk_calculator Fleiss' kappa calculation for interrater agreement of categorical ratings
-% Arguments: fleissk(n,N,k)
+% Arguments: fleissk_calculator(n,N,k)
 %   n = raters
 %   N = subjects
 %   k = categories

@@ -3,7 +3,7 @@ Fleiss' kappa MATLAB function for interrater agreement of categorical ratings
 
 fleissk_calculator Fleiss' kappa calculation for interrater agreement of categorical ratings
 
-Arguments: fleissk(n,N,k)
+Arguments: fleissk_calculator(n,N,k)
    
    n = raters
    
